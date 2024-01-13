@@ -35,6 +35,14 @@ sudo apt update && sudo apt upgrade -y
 nano src/config.py
 ~~~~~~~~~~~~~~~~~~~~~~~
 
+edit this part and add as many more search terms in the same format
+--------------------------------------------
+    {
+        "keyword": "type in search term here",
+        "max_results" : 50,
+    },
+--------------------------------------------    
+
 ------------------------
 edit the config.py file with the search terms you want, how many results you want and how many bots you want to run. (i would not try to run more than 16 and even then you need a good computer and fast internet)
 
