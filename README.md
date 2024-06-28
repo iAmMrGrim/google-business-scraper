@@ -12,6 +12,10 @@ cd google-business-scraper
 pip install -r requirements.txt
 ~~~~~~~~~~~~~~~~~~~~~~~
 
+~~~~~~~~~~~~~~~~~~~~~~~
+sudo apt install chromedriver
+~~~~~~~~~~~~~~~~~~~~~~~
+
 ------------------------
 (note the path in the below warning is different on your pc, so make sure to make the right path)
 
