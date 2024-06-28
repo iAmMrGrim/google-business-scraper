@@ -13,7 +13,7 @@ pip install -r requirements.txt
 ~~~~~~~~~~~~~~~~~~~~~~~
 
 ~~~~~~~~~~~~~~~~~~~~~~~
-sudo apt install chromedriver
+sudo apt install chromedriver -y
 ~~~~~~~~~~~~~~~~~~~~~~~
 
 ------------------------
